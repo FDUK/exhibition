@@ -36,22 +36,32 @@
     /* center images plus restrict height (or some portrait ones too big) */
     .img-responsive         {margin: 0 auto; max-height: 600px;}
 
-    /* loose empty space at top of quote - not needed now inline with fancy quote
-    blockquote > p          {margin: 0;} */
-    /* make font bigger so stand out */
-    blockquote              {font-size: 1.3em; color: black;}
-    /* loose padding around footer so tight + on right */
-    blockquote footer       {padding: 0; font-size: 70%; text-align: right;}
+ /* make font bigger so stand out */
+    blockquote              {font-size: 1.1em; color: #404040; border-left: 0;}
     /* fancy quote */
     blockquote:before {
       color: #ccc;
       content: "\201C";
-      font-size: 4em;
+      font-size: 3em;
       line-height: 0.1em;
-      margin-right: 0.25em;
+      margin-right: 0.1em;
       vertical-align: -0.4em;
     }
     blockquote p { display: inline;}
+    /* loose padding around footer so tight + on right */
+    blockquote footer       {padding: 0; font-size: 70%; text-align: right;}
+
+    /* big blockquotes as pull quotes */
+    blockquote.big          {font-size: 1.3em; color: black;}
+     blockquote.big:before {
+      font-size: 4em;
+      /*margin-right: 0.25em;*/
+    }   
+
+
+
+    .intro-header { margin-bottom: 0px}
+
 
     /* smaller header image on most pages, but not home */
     .intro-header .site-heading   {padding: 20px 0;}

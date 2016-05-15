@@ -10,10 +10,6 @@ layout: default
             <div class="col-md-12"> 
                 <div class="site-heading">
                     <h1>{{ site.title }}</h1>
-                    <!--
-                    <hr class="small">
-                    <span class="subheading">{{ page.description }}</span>
-                -->
                 </div>
             </div>
         </div>
@@ -34,14 +30,21 @@ layout: default
     <div class="container-fluid">
         <div class="row widerGutter">
             <!-- Main Content -->
-            <div class="col-md-6">
+            <div class="col-md-6">                     
                 {{ content }}
             </div>
 
             <div class="col-md-6">
+            <!-- CITY -->
+            {% if page.city %}
+             <h2 style="text-align: right">{{ page.city }}</h2>
+             <div style="height: 300px; margin:0px 0px 20px auto; width: 50%; background: #ccc"></div>
+            {% endif %}
+
+
             <!-- IMAGE -->
-                <img src="/img/Frederick_Douglass.jpg" alt="Frederick Douglass as a younger man"/>
-                <span class="caption text-muted">Frederick Douglass as a younger man (source)</span>
+                <img src="/img/{{ page.image }}" alt="{{ page.imageCaption }}"/>
+                <span class="caption text-muted">{{ page.imageCaption }}</span>
             </div>
         </div>  
     </div> 
