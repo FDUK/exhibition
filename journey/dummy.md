@@ -1,6 +1,6 @@
 ---
 layout: 		journey
-city: 			"Beeston"
+city: 			"Bristol"
 title: 			"Under the Lash of the Tyrant"
 image: 			"Covent_Garden_Theatre_1827-28.jpg"
 imageCaption: 	"Covent Garden, 1827-28"

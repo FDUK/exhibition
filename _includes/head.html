@@ -76,6 +76,31 @@
     a.thumb img:hover     {cursor: pointer;}
     .thumb h4         {display: block; position: absolute; bottom: 0px; margin-bottom: 0px; text-align: right; padding: 10px 6px; background: rgba(255, 255, 255, 0.5); width: 100%;}
 
+/* MAP STYLES */
+#map        {text-align: right;}
+#place      {text-align: right; float: left;}
+/* COUNTRIES */
+.subunit.ENG { fill: #ccc; }
+.subunit.SCT { fill: #ccc; }
+.subunit.WLS { fill: #ccc; }
+.subunit.NIR { fill: #ccc; }
+.subunit.IRL { fill: none; }
+
+.subunit-boundary         {fill: none; stroke: #efefef;}
+.subunit-boundary.IRL   {stroke: #ccc;}
+
+/* LABELS */
+.place,
+.place-label            {fill: #404040; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px; pointer-events: none;}
+.primary-place    {font-size: 18px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;pointer-events: none;}
+.subunit-label    {fill: #777; fill-opacity: .5; font-size: 20px; font-weight: 300; text-anchor: middle;
+}
+
+
+
+
+
     /* wider gutters - extra right padding on 1st child; extra left padding on 2nd child 
     NEED to do this right for different sizes OR maybe build from LESS with custom wider @grid-gutter-width variable */
 @media (min-width:992px) { 
