@@ -1,6 +1,9 @@
 ---
-layout: journey
-title: "“The Enemy of Slavery”: Northampton"
+layout: 		journey
+title: 			"The Enemy of Slavery"
+city:			"Northampton"
+image: 			"Covent_Garden_Theatre_1827-28.jpg"
+imageCaption: 	"Covent Garden, 1827-28"
 ---
 
 In one of his final lectures in England, Douglass travelled to the midlands to give a speech in Northampton. The local press reported that his lecture “was of exceeding length and interest” and brought many audience members to tears. 

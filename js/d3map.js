@@ -28,7 +28,7 @@ var projection = d3.geo.albers()
     .center([0, 55.4])
     .rotate([4.4, 0])
     .parallels([50, 60])
-    .scale(1500)
+    .scale(1200)
     .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()
@@ -84,7 +84,8 @@ function makeMyMap(error, uk, allPlaces) {
   .attr("d", path)
   .attr("class", "subunit-boundary IRL");
  
-  // country labels
+  // country labels 
+  /*OMIT
   svg.selectAll(".subunit-label")
     .data(topojson.feature(uk, uk.objects.subunits).features)
   .enter().append("text")
@@ -92,6 +93,7 @@ function makeMyMap(error, uk, allPlaces) {
     .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
     .attr("dy", ".35em")
     .text(function(d) { return d.properties.name; });  
+    */
 
 
   // add (big) circle for thisPlace to svg
@@ -100,7 +102,7 @@ function makeMyMap(error, uk, allPlaces) {
   svg.selectAll("circle")
   .data(thisPlace).enter()
   .append("circle")
-  .attr("r", "8px")
+  .attr("r", "4px")
   .attr("fill", "#404040")
   .attr("transform", function(d) {
       return "translate(" + projection([d.longitude,d.latitude]) + ")";
@@ -110,14 +112,14 @@ function makeMyMap(error, uk, allPlaces) {
   svg.selectAll("circle")
   .data(places).enter()
   .append("circle")
-  .attr("r", "5px")
-  .attr("fill", "#999")
+  .attr("r", "2px")
+  .attr("fill", "#333")
   .attr("transform", function(d) {
       return "translate(" + projection([d.longitude,d.latitude]) + ")";
    });
 
 
-  // add (big) lable for thisPlace to svg
+  // add (big) label for thisPlace to svg
   svg.selectAll(".primary-place")
   .data(thisPlace)
   .enter().append("text")
@@ -128,7 +130,7 @@ function makeMyMap(error, uk, allPlaces) {
    })
   .attr("x", function(d) { return d.longitude > threshold ? 6 : -6; })
   .attr("dy", ".35em")
-  .attr("dx", function(d) { return d.longitude > threshold ? "8px" : "-8px"; })
+  .attr("dx", function(d) { return d.longitude > threshold ? "5px" : "-5px"; })
   .style("text-anchor", function(d) { return d.longitude > threshold ? "start" : "end"; })
   .text(function(d) { return d.name; });
 
@@ -143,7 +145,7 @@ function makeMyMap(error, uk, allPlaces) {
    })
   .attr("x", function(d) { return d.longitude > threshold ? 6 : -6; })
   .attr("dy", ".35em")
-  .attr("dx", function(d) { return d.longitude > threshold ? "5px" : "-5px"; })
+  .attr("dx", function(d) { return d.longitude > threshold ? "3px" : "-3px"; })
   .style("text-anchor", function(d) { return d.longitude > threshold ? "start" : "end"; })
   .text(function(d) { return d.name; }); 
 

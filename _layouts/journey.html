@@ -17,22 +17,26 @@ layout: default
 </header>
 
 <!-- Title -->
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+<section>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>{{ page.city }} : <span>{{ page.title }}</span></h1>
+            </div>
         </div>
     </div>
-</div>
-
+</section>
 
 <section>
     <div class="container-fluid">
         <div class="row widerGutter">
-            <!-- Main Content -->
-            <div class="col-md-6">                     
+
+            <!-- Main Content IE TEXT -->
+            <div class="col-md-6">   
+            <div id="map" style="float: right;"></div>                  
                 {{ content }}
             </div>
+
 
             <div class="col-md-6">
             <!-- CITY -->
@@ -41,11 +45,12 @@ layout: default
              <div id="map"></div>
             {% endif %}
 
-
             <!-- IMAGE -->
                 <img src="/img/{{ page.image }}" alt="{{ page.imageCaption }}"/>
-                <span class="caption text-muted">{{ page.imageCaption }}</span>
+                <span class="caption">{{ page.imageCaption }}</span>
             </div>
+
+
         </div>  
     </div> 
 </section>

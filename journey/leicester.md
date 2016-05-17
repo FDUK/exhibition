@@ -1,6 +1,9 @@
 ---
-layout: journey
-title: "“A Kind and Generous Reception”: Leicester"
+layout: 		journey
+title: 			"A Kind and Generous Reception"
+city:			"Leicester"
+image: 			"Covent_Garden_Theatre_1827-28.jpg"
+imageCaption: 	"Covent Garden, 1827-28"
 ---
 
 Douglass praised Britain for its antislavery sentiment and declared it was the first place where he felt truly free. In one meeting in Leicester, the lecturing hall was overflowing with people, and hundreds had to leave disappointed when they could not find a space. Douglass declared:

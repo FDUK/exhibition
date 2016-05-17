@@ -1,6 +1,9 @@
 ---
-layout: journey
-title: "Douglass Returns Home: Liverpool"
+layout: 		journey
+title: 			"Douglass Returns Home"
+city:			"Liverpool"
+image: 			"Covent_Garden_Theatre_1827-28.jpg"
+imageCaption: 	"Covent Garden, 1827-28"
 ---
 
 In the spring of 1847, Douglass prepared to leave Britain and between February and April, farewell meetings were held in numerous cities to thank Douglass for campaigning against American slavery. When Douglass eventually boarded the Cunard steamship Cambria in 1847 with a first class ticket, he was refused entry and found that his berth had been given to someone else. Douglass wrote a letter to the press denouncing this racist treatment, and they responded just as Douglass expected they would: with outrage. The incident was discussed hundreds of times across the country, even in places where Douglass had never visited. The controversy reached such a height that Samuel Cunard – the owner of the steamship company – was forced to publicly apologise in the press.

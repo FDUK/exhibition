@@ -1,12 +1,12 @@
 ---
 layout: 		journey
-city: 			"Bristol"
+city: 			"Belfast"
 title: 			"Under the Lash of the Tyrant"
 image: 			"Covent_Garden_Theatre_1827-28.jpg"
 imageCaption: 	"Covent Garden, 1827-28"
 ---
 
-Douglass began his lecturing tour in Ireland. 
+Douglass began his lecturing tour in Ireland, speaking in Belfast, Cork, Limerick and Dublin to hundreds of Irishmen and women.
 
 In one meeting in Belfast, the local mayor chaired the meeting and introduced Douglass to an enthusiastic crowd. Douglass described his birthplace in Maryland and believed he had authority to speak about slavery, as 
 

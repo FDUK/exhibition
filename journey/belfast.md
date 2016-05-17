@@ -1,6 +1,7 @@
 ---
 layout: 		journey
-title: 			"Under the Lash of the Tyrant: Belfast"
+title: 			"Under the Lash of the Tyrant"
+city:			"Belfast"
 image: 			"Covent_Garden_Theatre_1827-28.jpg"
 imageCaption: 	"Covent Garden, 1827-28"
 ---
