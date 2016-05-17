@@ -29,36 +29,28 @@ layout: default
 
 <section>
     <div class="container-fluid">
-        <div class="row widerGutter">
+        <div class="multicol">
 
-            <!-- Main Content IE TEXT -->
-            <div class="col-md-6">   
-            <div id="map" style="float: right;"></div>                  
-                {{ content }}
-            </div>
-
-
-            <div class="col-md-6">
-            <!-- CITY -->
+            <!-- MAP -->
             {% if page.city %}
-             <h2 id="place">{{ page.city }}</h2>
-             <div id="map"></div>
+            <h2 id="place">{{ page.city }}</h2>
+            <div id="map" style="float: right;"></div>   
             {% endif %}
+            <!-- Main Content IE TEXT -->              
+            {{ content }}
 
             <!-- IMAGE -->
-                <img src="/img/{{ page.image }}" alt="{{ page.imageCaption }}"/>
+                <img src="{{ "/img/" | prepend: site.baseurl }}{{ page.image}}" alt="{{ page.imageCaption }}" class="img-responsive"/>
                 <span class="caption">{{ page.imageCaption }}</span>
-            </div>
-
 
         </div>  
     </div> 
 </section>
 
 <hr>
-<script src="/js/jquery.min.js "></script>
+<script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
 <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="//d3js.org/topojson.v1.min.js"></script>
 <script src="//d3js.org/queue.v1.min.js"></script>
 <!-- script to build the map -->
-<script src="/js/d3map.js"></script>
+<script src="{{ "/js/d3map.js" | prepend: site.baseurl }}"></script> 

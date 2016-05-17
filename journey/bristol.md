@@ -2,8 +2,8 @@
 layout: 		journey
 title: 			"The Low Growl of the Lion"
 city:			"Bristol"
-image: 			"Covent_Garden_Theatre_1827-28.jpg"
-imageCaption: 	"Covent Garden, 1827-28"
+image: 			"bristol.jpg"
+imageCaption: 	"Photo caption here, 18xx"
 ---
 
 Douglass lectured in Bristol several times because a local antislavery family there – the Estlin family – were friendly with William Lloyd Garrison. The Estlin family ensured the local press printed adverts and long coverage of Douglass’ speeches, often taking up pages of The Bristol Mercury: 

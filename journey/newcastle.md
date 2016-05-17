@@ -2,8 +2,8 @@
 layout: 		journey
 title: 			"What is American Slavery?"
 city:			"Newcastle"
-image: 			"Covent_Garden_Theatre_1827-28.jpg"
-imageCaption: 	"Covent Garden, 1827-28"
+image: 			"newcastle.jpg"
+imageCaption: 	"Photo caption here, 18xx"
 ---
 
 In nearly every lecture, Douglass had to define what slavery was to a British audience. Britons did not (and would never) understand the cruelty and violence of a system that could not be described. Many Britons believed slavery existed in their country, in the factories and mills of the north where men, women and children suffered under harsh conditions. Douglass wanted to prove that slavery did not exist in Britain, and it was an entirely different beast in America:

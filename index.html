@@ -25,12 +25,12 @@ description: ""
                       see http://www.leveluplunch.com/blog/2014/04/03/sort-pages-by-title-filter-array-by-layout-jekyllrb/
                     {% endcomment %}
 
-                    {% assign pages = (site.pages | where: "layout" , "journey" | sort: "sortTitle") %}
+                    {% assign pages = (site.pages | where: "layout" , "journey" | sort: "city") %}
                     {% for page in pages %}
                         {% if page.title %}
                             
                     <li>
-                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.city }}: {{ page.title }} </a>
                     </li>
                             
                         {% endif %}

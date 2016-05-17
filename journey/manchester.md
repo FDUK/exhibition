@@ -2,8 +2,8 @@
 layout: 		journey
 title: 			"A Negro Hercules"
 city:			"Manchester"
-image: 			"Covent_Garden_Theatre_1827-28.jpg"
-imageCaption: 	"Covent Garden, 1827-28"
+image: 			"manchester.jpg"
+imageCaption: 	"Photo caption here, 18xx"
 ---
 
 Douglass gave many lectures in the north of England in manufacturing towns such as Manchester, Liverpool, Sheffield and Leeds. The wealth of such towns was based on importing slave-grown cotton from the American South, but the large majority of Britons supported the antislavery cause and thus came to hear Douglass speak in their thousands. One newspaper described Douglass as a “Negro Hercules” and “the effect produced by his oratory must be seen to be believed.” (The Manchester Examiner, Saturday 11 July 1846, p.5.)

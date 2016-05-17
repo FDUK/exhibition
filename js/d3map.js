@@ -11,7 +11,7 @@ var thisPlaceX = [
     longitude: -2.58791
   }
 ]
-var placesDataFile = '/js/places.csv';
+var placesDataFile = '/exhibition/js/places.csv';
 
 
 // BUILD THE MAP -- http://bost.ocks.org/mike/map/
@@ -42,7 +42,7 @@ var svg = d3.select("#map").append("svg")
 // FETCH DATA (map & places)
 // see http://bl.ocks.org/mapsam/6090056
 queue()
-  .defer(d3.json, '/js/uk.json')
+  .defer(d3.json, '/exhibition/js/uk.json')
   .defer(d3.csv, placesDataFile)
   .await(makeMyMap);
 

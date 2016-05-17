@@ -2,8 +2,8 @@
 layout: 		journey
 title: 			"Under the Lash of the Tyrant"
 city:			"Belfast"
-image: 			"Covent_Garden_Theatre_1827-28.jpg"
-imageCaption: 	"Covent Garden, 1827-28"
+image: 			"belfast.jpg"
+imageCaption: 	"Photo caption here, 18xx"
 ---
 
 Douglass began his lecturing tour in Ireland, speaking in Belfast, Cork, Limerick and Dublin to hundreds of Irishmen and women. 
@@ -12,7 +12,7 @@ In one meeting in Belfast, the local mayor chaired the meeting and introduced Do
 
 However, Douglass caused some controversy during his second visit to Belfast six months later, and the presence of the radical abolitionist William Lloyd Garrison did not improve matters. Both men denounced religious institutions in Britain and America who refused to condemn slavery, angering many people in the city. One newspaper wrote:
 
-“People who speak so very much of themselves and so very little of the ostensible object of their mission are either fools or imposters, and sometimes we doubt not, they are a little of both.”
+> People who speak so very much of themselves and so very little of the ostensible object of their mission are either fools or imposters, and sometimes we doubt not, they are a little of both.
 
 Douglass was described in racist terms as “the ‘curled darling’ of the ladies” and was accused of stirring up hatred against the church:
 

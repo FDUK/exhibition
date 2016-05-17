@@ -11,7 +11,8 @@ Douglass began his lecturing tour in Ireland, speaking in Belfast, Cork, Limeric
 In one meeting in Belfast, the local mayor chaired the meeting and introduced Douglass to an enthusiastic crowd. Douglass described his birthplace in Maryland and believed he had authority to speak about slavery, as 
 
 >he had writhed under the lash of the tyrant
-{:.big}
+
+<!-- {:.big} -->
 
 However, Douglass caused some controversy during his second visit to Belfast six months later, and the presence of the radical abolitionist William Lloyd Garrison did not improve matters. Both men denounced religious institutions in Britain and America who refused to condemn slavery, angering many people in the city. One newspaper wrote:
 
