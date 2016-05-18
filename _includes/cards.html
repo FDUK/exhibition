@@ -1,0 +1,30 @@
+<!-- Cards -->
+
+{% comment %}
+  Generates nav of pages with `layout: journey` in the front-matter (ie JUST journey pages)
+  Plus excludes pages without title
+  Plus sorts on sortTitle (ie exclude the)
+  see http://www.leveluplunch.com/blog/2014/04/03/sort-pages-by-title-filter-array-by-layout-jekyllrb/
+{% endcomment %}
+
+{% assign pages = (site.pages | where: "layout" , "journey" | sort: "city") %}
+{% for page in pages %}
+    {% if page.title %}
+        
+<div class="col-md-3">
+    <div class="card">
+        <a href="{{ page.url | prepend: site.baseurl }}" class="thumbnail" style="background-image: url({{ "/img/" | prepend: site.baseurl }}{{ page.image}})">
+            <div class="cardlabel">
+                <h2>{{ page.city }} <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+</h2>
+                <!--<h3>{{ page.title }}</h3>-->
+            </div>
+        </a>
+    </div>
+</div>
+        
+    {% endif %}
+{% endfor %}
+
+
+

@@ -1,0 +1,45 @@
+---
+layout: default
+description: ""
+---
+
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"> -->
+            <div class="col-md-12">
+                <div class="site-heading">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <!-- 
+                        <hr class="small">
+                        <span class="subheading">{{ page.description }}</span>
+                    -->
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <p>After the publication of his narrative in 1845, William Lloyd Garrison was concerned Douglass’ former master would try and reclaim him, and urged him to travel to Britain for safety.</p>
+
+                <p>It was an opportunity for Douglass and the abolitionists to spread awareness of the cruelties of American slavery and through this, gather an international reputation.</p>
+
+                <p>When Douglass arrived in Britain in 1845, he visited those towns where antislavery support was strongest, and friends of the cause would usually meet him at a train station or instruct him where to meet and whom to stay with.</p> 
+            </div>
+        </div>  
+    </div> 
+</section>
+
+<section>
+    <div class="container-fluid">
+        <div class="row">
+            {% include cards.html %}
+        </div>
+    </div>
+</section>
