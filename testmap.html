@@ -32,7 +32,8 @@ description: ""
 
                 <p>When Douglass arrived in Britain in 1845, he visited those towns where antislavery support was strongest, and friends of the cause would usually meet him at a train station or instruct him where to meet and whom to stay with.</p> 
 
-                <p>Map ?</p>
+                <h2 id="place"></h2>
+                <div id="map" class="home"></div> 
             </div>
             <div class="col-md-6">
                 {% include cards6.html %}
@@ -40,3 +41,10 @@ description: ""
         </div>
     </div>
 </section>
+
+<script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="//d3js.org/topojson.v1.min.js"></script>
+<script src="//d3js.org/queue.v1.min.js"></script>
+<!-- script to build the map -->
+<script src="{{ "/js/d3mapHOME.js" | prepend: site.baseurl }}"></script> 

@@ -1,9 +1,12 @@
 ---
-layout: 		journey
+layout: 		default
+note: 			layout is default so wont appear in list on home page
+
 city: 			"Belfast"
 title: 			"Under the Lash of the Tyrant"
 image: 			"Covent_Garden_Theatre_1827-28.jpg"
 imageCaption: 	"Covent Garden, 1827-28"
+
 ---
 
 Douglass began his lecturing tour in Ireland, speaking in Belfast, Cork, Limerick and Dublin to hundreds of Irishmen and women.
