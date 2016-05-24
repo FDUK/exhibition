@@ -3,7 +3,7 @@ layout: 		journey
 title: 			"Under the Lash of the Tyrant"
 city:			"Belfast"
 image: 			"belfast.jpg"
-imageCaption: 	"Robert Aickin, ‘Guide to North of Ireland’, 1890 (British Library Flickr)"
+imageCaption: 	"Belfast. Robert Aickin, ‘Guide to North of Ireland’, 1890 (British Library Flickr)"
 ---
 
 Douglass began his lecturing tour in Ireland, speaking in Belfast, Cork, Limerick and Dublin to hundreds of Irishmen and women. 
