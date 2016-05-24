@@ -2,7 +2,7 @@
 layout: 		journey
 title: 			"I Go Back with Reputation"
 city:			"London"
-image: 			"london-lo.jpg"
+image: 			"London.jpg"
 imageCaption: 	"Trafalgar Square, London. Charles Knight, ‘London’, 1875, British Library Flickr"
 ---
 
