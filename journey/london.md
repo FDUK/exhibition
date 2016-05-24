@@ -3,7 +3,7 @@ layout: 		journey
 title: 			"I Go Back with Reputation"
 city:			"London"
 image: 			"Covent_Garden_Theatre_1827-28.jpg"
-imageCaption: 	"Covent Garden, 1827-28"
+imageCaption: 	"Trafalgar Square, London"
 ---
 
 During his British trip, British abolitionists in Newcastle raised enough money to purchase Douglass’ freedom from his former master. For the first time, Douglass would return home to America (legally) a free man. He was forever grateful to the British abolitionists for this, despite the fact it caused ripples of disagreements with some of William Lloyd Garrison’s supporters, who believed purchasing an individual from slavery added further blood stained money to the pockets of slaveholders. In his last meeting in London, Douglass described why he had rejected offers to live in Britain permanently, as he could not abandon his fellow brethren in slavery:
