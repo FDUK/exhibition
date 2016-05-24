@@ -6,7 +6,7 @@ image: 			"bristol.jpg"
 imageCaption: 	"Ward and Lock’s Illustrated Historical Handbook to Bristol Cathedral, 1891, British Library Flickr"
 ---
 
-Douglass lectured in Bristol several times because a local antislavery family there – the Estlin family – were friendly with William Lloyd Garrison. The Estlin family ensured the local press printed adverts and long coverage of Douglass’ speeches, often taking up pages of The Bristol Mercury: 
+Douglass was extremely successful in Bristol. He lectured in the city several times because a local antislavery family there – the Estlin family – were friendly with William Lloyd Garrison. The Estlin family ensured the local press printed adverts and long coverage of Douglass’ speeches, often taking up pages of The Bristol Mercury: 
 
 >Frederick Douglass is no common man. His language is plain and to the purpose. His manner though not deficient in energy is on the whole quiet and subdued, and yet there are occasional tones in his voice – not unlike the low growl of the lion which hint at ‘something dangerous’ and would seem to indicate that he is a man not to be trampled on with impunity.
 
