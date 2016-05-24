@@ -2,8 +2,8 @@
 layout: 		journey
 title: 			"The Enemy of Slavery"
 city:			"Northampton"
-image: 			"Covent_Garden_Theatre_1827-28.jpg"
-imageCaption: 	"Covent Garden, 1827-28"
+image: 			"Northampton. 1810 George Northampton Cole, engr. J. Roper in The British Atlas .jpg"
+imageCaption: 	"An engraving of Northampton by J.Roper, The British Atlas, 1810."
 ---
 
 In one of his final lectures in England, Douglass travelled to the midlands to give a speech in Northampton. The local press reported that his lecture “was of exceeding length and interest” and brought many audience members to tears. 
