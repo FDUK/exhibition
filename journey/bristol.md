@@ -3,7 +3,7 @@ layout: 		journey
 title: 			"The Low Growl of the Lion"
 city:			"Bristol"
 image: 			"bristol.jpg"
-imageCaption: 	"Ward and Lock’s Illustrated Historical Handbook to Bristol Cathedral, 1891, British Library Flickr"
+imageCaption: 	"View of Bristol. Ward and Lock’s Illustrated Historical Handbook to Bristol Cathedral, 1891, British Library Flickr"
 ---
 
 Douglass was extremely successful in Bristol. He lectured in the city several times because a local antislavery family there – the Estlin family – were friendly with William Lloyd Garrison. The Estlin family ensured the local press printed adverts and long coverage of Douglass’ speeches, often taking up pages of The Bristol Mercury: 
