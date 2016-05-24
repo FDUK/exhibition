@@ -16,5 +16,5 @@ Douglass used the slogan ‘SEND BACK THE MONEY’ to win support amongst the Sc
 
 In early spring 1846, the desire to see Douglass was so great that 1,200 people crammed themselves into a chapel in Dundee to hear lectures on the relationship of Scottish churches with American slavery. Douglass denounced the Free Church of Scotland and demanded the money be returned:
 
->Disgorge the plunder! Disgorge the plunder! The cry shall be heard throughout Scotland. I shall not be silenced by an attempt to make light of it. I shall not be hushed by an attempt to excite ridicule – or an attempt to stand up before the world and blacken my character by their base insinuations. I defy them to point to a single black spot in my character.
+>Disgorge the plunder! Disgorge the plunder! The cry shall be heard throughout Scotland. I shall not be silenced by an attempt to make light of it. 
 > <footer><cite>Dundee Courier, Tuesday 17 March 1846</cite></footer>
