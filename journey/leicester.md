@@ -3,7 +3,7 @@ layout: 		journey
 title: 			"A Kind and Generous Reception"
 city:			"Leicester"
 image: 			"Leicester.jpg"
-imageCaption: 	"Market Square, Leicester."
+imageCaption: 	"Market Square, Leicester. Robert Read, ‘Modern Leicester’, 1881, British Library Flickr"
 ---
 
 For the first time in his life, Douglass felt truly free.
