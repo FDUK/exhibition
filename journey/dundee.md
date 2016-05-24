@@ -2,8 +2,8 @@
 layout: 		journey
 title: 			"Send Back the Money"
 city:			"Dundee"
-image: 			"Covent_Garden_Theatre_1827-28.jpg"
-imageCaption: 	"Covent Garden, 1827-28"
+image: 			"Scotland map.jpg"
+imageCaption: 	"Map of Scotland, British Library Flickr"
 ---
 
 Douglass created a storm of controversy in Scotland. 
