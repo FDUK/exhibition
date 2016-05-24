@@ -2,7 +2,7 @@
 layout: 		journey
 title: 			"The Enemy of Slavery"
 city:			"Northampton"
-image: 			"Northampton. 1810 George Northampton Cole, engr. J. Roper in The British Atlas .jpg"
+image: 			"Northampton.jpg"
 imageCaption: 	"An engraving of Northampton by J.Roper, The British Atlas, 1810."
 ---
 
