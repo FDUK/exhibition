@@ -2,8 +2,8 @@
 layout: 		journey
 title: 			"Douglass’ Strength Failed"
 city:			"Leeds"
-image: 			"Covent_Garden_Theatre_1827-28.jpg"
-imageCaption: 	"Covent Garden, 1827-28"
+image: 			"Leeds.jpg"
+imageCaption: 	"Richard Jackson, ‘Jackson’s New Illustrated Guide to Leeds’, 1889"
 ---
 
 The extensive lecturing tour in Britain physically exhausted Douglass. 
