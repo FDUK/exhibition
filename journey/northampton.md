@@ -6,7 +6,7 @@ image: 			"Northampton.jpg"
 imageCaption: 	"An engraving of Northampton by J.Roper, The British Atlas, 1810."
 ---
 
-Douglass was such a skilled speaker he could bring audiences to tears.
+Douglass was such a skilled speaker he could bring an audience to tears.
 
 In one of his final lectures in England, Douglass travelled to the midlands to give a speech in Northampton. The local press reported that his lecture “was of exceeding length and interest” and the audience laughed, gasped and cried throughout his speech.
 
