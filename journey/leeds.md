@@ -3,7 +3,7 @@ layout: 		journey
 title: 			"Douglass’ Strength Failed"
 city:			"Leeds"
 image: 			"Leeds.jpg"
-imageCaption: 	"Richard Jackson, ‘Jackson’s New Illustrated Guide to Leeds’, 1889"
+imageCaption: 	"Leeds. Richard Jackson, ‘Jackson’s New Illustrated Guide to Leeds’, 1889"
 ---
 
 The extensive lecturing tour in Britain physically exhausted Douglass. 
