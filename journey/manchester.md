@@ -3,7 +3,7 @@ layout: 		journey
 title: 			"A Negro Hercules"
 city:			"Manchester"
 image: 			"manchester.jpg"
-imageCaption: 	"John Mortimer, ‘Mercantile Manchester, Past and Present’, 1896, British Library Flickr"
+imageCaption: 	"Manchester. John Mortimer, ‘Mercantile Manchester, Past and Present’, 1896, British Library Flickr"
 ---
 
 Douglass was popular in the industrial north of England.
