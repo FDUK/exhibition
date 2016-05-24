@@ -12,6 +12,8 @@ When Douglass eventually boarded the Cunard steamship Cambria in Liverpool with 
 
 The controversy reached such a height that Samuel Cunard – the owner of the steamship company – was forced to publicly apologise in the press.
 
+<b><u>Farewell to the Land of the Free! </u>
+
 The Cambria incident also inspired poems and songs, which illustrate this theme of British patriotism very well. The Leicestershire Mercury printed a ‘Farewell Song to Frederick Douglass’ by T. Powis Griffiths in July 1847: 
 
 Farewell to the land of the free!  
