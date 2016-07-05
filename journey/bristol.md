@@ -10,7 +10,7 @@ Douglass was extremely successful in Bristol. He lectured in the city several ti
 
 >Frederick Douglass is no common man. His language is plain and to the purpose. His manner though not deficient in energy is on the whole quiet and subdued, and yet there are occasional tones in his voice – not unlike the low growl of the lion which hint at ‘something dangerous’ and would seem to indicate that he is a man not to be trampled on with impunity.
 
-<b><u>Independence Day </u></b>
+### Independence Day
 
 Douglass spoke of the same themes he would famously articulate in his “What to the Slave is the Fourth of July” speech in 1852:
 
