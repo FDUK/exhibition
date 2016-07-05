@@ -6,9 +6,11 @@ image: 			"liverpool.jpg"
 imageCaption: 	"Photo caption here, 18xx"
 ---
 
-In the spring of 1847, Douglass prepared to leave Britain and between February and April, farewell meetings were held in numerous cities to thank Douglass for campaigning against American slavery. When Douglass eventually boarded the Cunard steamship Cambria in 1847 with a first class ticket, he was refused entry and found that his berth had been given to someone else. Douglass wrote a letter to the press denouncing this racist treatment, and they responded just as Douglass expected they would: with outrage. The incident was discussed hundreds of times across the country, even in places where Douglass had never visited. The controversy reached such a height that Samuel Cunard – the owner of the steamship company – was forced to publicly apologise in the press.
+In the spring of 1847, Douglass left Britain a national celebrity. He boarded the Cunard steamship Cambria in 1847 with a first class ticket, he was refused entry and found that his berth had been given to someone else. 
 
-The Cambria incident also inspired poems and songs, which illustrate this theme of British patriotism very well. The Leicestershire Mercury printed a ‘Farewell Song to Frederick Douglass’ by T. Powis Griffiths in July 1847: 
+Douglass wrote a letter to the press denouncing this racist treatment, and they responded just as Douglass expected they would: with outrage. The incident was discussed hundreds of times across the country, even in places where Douglass had never visited. The controversy reached such a height that Samuel Cunard – the owner of the steamship company – was forced to publicly apologise in the press.
+
+The Cambria incident also inspired poems and songs: the Leicestershire Mercury printed a ‘Farewell Song to Frederick Douglass’ by T. Powis Griffiths in July 1847: 
 
 Farewell to the land of the free!  
 Farewell to the land of the brave!  

@@ -2,7 +2,7 @@
 layout: 		journey
 title: 			"A Kind and Generous Reception"
 city:			"Leicester"
-image: 			"Covent_Garden_Theatre_1827-28.jpg"
+image: 			"Leicester.jpg"
 imageCaption: 	"Covent Garden, 1827-28"
 ---
 
