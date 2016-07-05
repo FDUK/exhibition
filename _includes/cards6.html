@@ -13,11 +13,13 @@
         
 <div class="col-md-6">
     <div class="card">
+    {% if page.city == "London" %}
+        <a href="{{ page.url | prepend: site.baseurl }}" class="thumbnail" style="background-image: url({{ "/img/" | prepend: site.baseurl }}{{ page.image}}); background-position: 50% 0%;">
+    {% else %}
         <a href="{{ page.url | prepend: site.baseurl }}" class="thumbnail" style="background-image: url({{ "/img/" | prepend: site.baseurl }}{{ page.image}})">
+    {% endif %}  
             <div class="cardlabel">
-                <h2>{{ page.city }} <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-</h2>
-                <!--<h3>{{ page.title }}</h3>-->
+                <h2>{{ page.city }} <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></h2>
             </div>
         </a>
     </div>
