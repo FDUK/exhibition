@@ -2,7 +2,7 @@
 layout: 		journey
 title: 			"Douglass Returns Home"
 city:			"Liverpool"
-image: 			"Liverpool Map.jpg"
+image: 			"LiverpoolMap.jpg"
 imageCaption: 	"Late c19th map of Liverpool, Wikimedia Commons."
 ---
 

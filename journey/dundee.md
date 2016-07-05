@@ -2,7 +2,7 @@
 layout: 		journey
 title: 			"Send Back the Money"
 city:			"Dundee"
-image: 			"Scotland map.jpg"
+image: 			"ScotlandMap.jpg"
 imageCaption: 	"Map of Scotland, British Library Flickr"
 ---
 
