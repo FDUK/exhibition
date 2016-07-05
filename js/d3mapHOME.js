@@ -11,15 +11,15 @@ var placesDataFile = '/exhibition/js/places.csv';
 // -------------
 // create SVG object - half the example size
 var width = 480,
-    height = 580;
+    height = 480;
 
 
 // albers projection with this center & rotation is good for (whole of) UK 
 var projection = d3.geo.albers()
-    .center([0, 55.4])
+    .center([0, 53.8])
     .rotate([4.4, 0])
     .parallels([50, 60])
-    .scale(2400)
+    .scale(2800)
     .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()

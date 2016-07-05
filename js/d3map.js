@@ -20,15 +20,15 @@ var placesDataFile = '/exhibition/js/places.csv';
 var width = 480,
     height = 580;
 // now quater plus reduce scale below
-var width = 240,
+var width = 290,
     height = 290;
 
 // albers projection with this center & rotation is good for (whole of) UK 
 var projection = d3.geo.albers()
-    .center([0, 55.4])
+    .center([2, 55.4])
     .rotate([4.4, 0])
     .parallels([50, 60])
-    .scale(1200)
+    .scale(1500)
     .translate([width / 2, height / 2]);
 
 var path = d3.geo.path()
@@ -108,15 +108,18 @@ function makeMyMap(error, uk, allPlaces) {
       return "translate(" + projection([d.longitude,d.latitude]) + ")";
    });
 
+
   // add circles for each place (in places) to svg
   svg.selectAll("circle")
   .data(places).enter()
   .append("circle")
   .attr("r", "2px")
-  .attr("fill", "#333")
+  .attr("fill", "#333333")
   .attr("transform", function(d) {
       return "translate(" + projection([d.longitude,d.latitude]) + ")";
    });
+
+
 
 
   // add (big) label for thisPlace to svg
@@ -145,7 +148,7 @@ function makeMyMap(error, uk, allPlaces) {
    })
   .attr("x", function(d) { return d.longitude > threshold ? 6 : -6; })
   .attr("dy", ".35em")
-  .attr("dx", function(d) { return d.longitude > threshold ? "3px" : "-3px"; })
+  .attr("dx", function(d) { return d.longitude > threshold ? "2px" : "-2px"; })
   .style("text-anchor", function(d) { return d.longitude > threshold ? "start" : "end"; })
   .text(function(d) { return d.name; }); 
 
